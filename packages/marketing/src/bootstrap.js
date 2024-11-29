@@ -15,5 +15,4 @@ if(process.env.NODE_ENV == 'development') {
         mount(el);
 }
 
-//adding comment to run workflow again
 export { mount }
